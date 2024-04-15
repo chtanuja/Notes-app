@@ -1,3 +1,7 @@
 
 node_modules/@esbuild/win32-x64/esbuild.exe
 *.node
+*.html
+*.md
+*.ts
+/node_modules
